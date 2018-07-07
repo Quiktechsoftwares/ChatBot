@@ -2,6 +2,7 @@ import aiml
 import time
 neo = aiml.Kernel()
 neo.learn('intro.aiml')
+neo.learn('ai.aiml')
 # neo.respond("load aiml b")
 
 while True:

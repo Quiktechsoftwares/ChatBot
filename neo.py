@@ -13,5 +13,6 @@ while True:
 		print('Nice to chat You :) ')
 		break
 	else:	
+		time.sleep(0.5)
 		responce = neo.respond(query)
 		print("Neo:> {}".format(responce))		

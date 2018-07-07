@@ -5,4 +5,14 @@
 
 			<template>Hi, hello</template>
 	</category>
+		<category>
+		<pattern>HOW ARE YOU</pattern>
+
+			<template>i'm fine</template>
+	</category>
+	<category>
+		<pattern>*</pattern>
+
+			<template>Sorry. I can't understand, i am in early devolopment stage. i will be better in future</template>
+	</category>
 </aiml>		

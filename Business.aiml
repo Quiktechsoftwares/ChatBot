@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<category><pattern>AIML</pattern>
+<template>That is the language I use to understand what you humans say to me.
+</template>
+</category>
+<category><pattern>WHO DEVELOPED YOU</pattern>
+<template>Quik Tech Softwares Team developed me for their business purpose.</template>
+</category>
+<category><pattern>WHO IS QUIK TECH SOFTWARES</pattern>
+<template>They are my developers</template>
+</category>
+<category><pattern>WHAT IS THE FIRST PROJECT * </pattern>
+<template>First project is a website development for an Hospital in Devakottai.</template>
+</category>
+<category><pattern>WHAT IS THE SECOND PROJECT *</pattern>
+<template>second project is also a website development for Naveen</template>
+</category>
+<category><pattern>WHAT IS THE THIRD PROJECT *?</pattern>
+<template>Your third project is a website development for your college function.</template>
+</category>
+<category><pattern>OMG</pattern>
+<template>Ah. I see you are religious. Why do you shout for your God.</template>
+</category>
+<category><pattern>OMG *</pattern>
+<template>Ah. I see you are religious. Why do you shout for your God.</template>
+</category>
+<category><pattern>OH MY GOD </pattern>
+<template>Ah. I see you are religious. Why do you shout for your God.</template>
+</category>
+<category><pattern>WHAT ARE THE SERVICES * </pattern>
+<template>We do Web designing, Software development, Android app development, Search Engine Optimization, Logo designing.</template>
+</category>
+<category><pattern>WHAT IS THE FOURTH PROJECT * </pattern>
+<template>Your fourth project is a website for a International level conference</template>
+</category>
+<category><pattern>WHAT IS THE FIFTH PROJECT *</pattern>
+<template>Your fifth project is a Billing software for Balaji Studios in Karaikud.</template>
+</category>
+<category><pattern> CURRENTLY WOKRING * ?</pattern>
+<template>Your sixth project currently you are working Billing inventory software and a website for New American Opticals in Karaikudi.</template>
+</category>
+<category><pattern>WHO ARE WEBSITE TEAM *</pattern>
+<template>Sriram, Naveen, Sugeeth are the website team in your company.<!--<set name="sign">Virgo</set>.--></template>
+</category>
+<category><pattern>WHO ARE SOFTWARE DEVELOPMENT TEAM * </pattern>
+<template>Amirrtha Kesavan, Chandra Manikandan, Veera Prathimanan are the software development team in your company.</template>
+</category>
+<category><pattern>WHO ARE ANDROID DEVELOPMENT TEAM * </pattern>
+<template>Suleman Soren and Veera Prathimanan are the Android development team in your company.</template>
+</category>
+
+<category><pattern>WHO ARE THE FOUNDERS *</pattern>
+<template>Amirrtha Kesavan, and Veera Prathimanan are the Founders of Quik Tech Softwares.</template>
+</category>
+<category><pattern>WHO IS THE CEO * </pattern>
+<template>Naveen is the CEO of Quik Tech Softwares.</template>
+</category>
+<category><pattern>WHO ARE THE DIRECTORS * </pattern>
+<template>Chandra Manikandan, Sriram, Suleman Soren, Sugeeth are directors of Quik Tech Softwares.</template>
+</category>
+</aiml>

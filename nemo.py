@@ -1,8 +1,9 @@
 import aiml 
 import time
-neo = aiml.Kernel()
-neo.learn('intro.aiml')
-neo.learn('ai.aiml')
+nemo = aiml.Kernel()
+nemo.learn('intro.aiml')
+nemo.learn('ai.aiml')
+nemo.learn('Business.aiml')
 # neo.respond("load aiml b")
 
 while True:
@@ -14,6 +15,6 @@ while True:
 		print('Nice to chat You :) ')
 		break
 	else:	
-		time.sleep(0.5)
-		responce = neo.respond(query)
+		time.sleep(0.2)
+		responce = nemo.respond(query)
 		print("Neo:> {}".format(responce))		

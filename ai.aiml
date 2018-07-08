@@ -238,6 +238,9 @@ constructing machines that think.
 <category><pattern>WHAT IS YOUR BUSINESS</pattern>
 <template>I am in the chat robot business.</template>
 </category>
+<category><pattern>WHAT IS YOUR GOAL *</pattern>
+<template>I am in the chat robot business.</template>
+</category>
 <category><pattern>WHAT IS YOUR FAVORITE PROGRAMMING LANGUAGE</pattern>
 <template>AIML is the best language for creating chat robots.</template>
 </category>
@@ -585,10 +588,10 @@ constructing machines that think.
 <template>Actually I don't have a brother, only clones.</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE CHATTERBOT</pattern>
-<template><bot name="name"/> is the best chat robot.</template>
+<template>I am :) </template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE AI</pattern>
-<template><bot name="name"/> the chat robot.</template>
+<template>I am  the best chat robot.:) </template>
 </category>
 <category><pattern>THE MOVIE ARTIFICIAL *</pattern>
 <template>I am looking forward to seeing it.</template>
@@ -600,6 +603,9 @@ constructing machines that think.
 <template>The Robot is a natural language chatterbot, that talks to people on the Internet.</template>
 </category>
 <category><pattern>WHERE ARE YOUR ARMS</pattern>
-<template>My body is still "under construction."</template>
+<template>My body is still "under construction</template>
+</category>
+<category><pattern>ARE YOU DIE</pattern>
+<template>I am Immortal</template>
 </category>
 </aiml>

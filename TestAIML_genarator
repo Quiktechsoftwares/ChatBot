@@ -1,0 +1,5 @@
+<category><pattern>hi hello nemo </pattern><template>hi i am nemo </template></category>
+<category><pattern>how are you friend</pattern><template>i am fine bro what's about you</template></category>
+<category><pattern>am okay </pattern><template>sounds good </template></category>
+<category><pattern>what are you doing </pattern><template>i am a chatbot, I can chat :) </template></category>
+<category><pattern>ohh that's Great</pattern><template>Yeah it's Nice</template></category>

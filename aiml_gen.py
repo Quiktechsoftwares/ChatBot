@@ -18,7 +18,7 @@ while True:
 		break
 		myfile.close()
 	responce = raw_input("responce: ")
-	myfile.write('<category><pattern>{}</pattern>'.format(query))
+	myfile.write('<category><pattern>{}</pattern>'.format(query.upper()))
 	myfile.write('<template>{}</template></category>'.format(responce))
 	myfile.write("\n")
 	print("\n")

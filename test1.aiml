@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category><pattern>HI</pattern><template>hello</template></category>
+<category><pattern>FINE</pattern><template>u</template></category>
+<category><pattern>FINE</pattern><template>k</template></category>
+
+</aiml>

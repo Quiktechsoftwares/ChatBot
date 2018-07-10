@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+	<category><pattern>HI BOT WHAT ARE YOU DOING NOW </pattern><template>just chat bro what about you</template></category>
+<category><pattern>NOTHING BOT JUST FINE</pattern><template>fine ! Sounds good</template></category>
+<category><pattern>OK TELL ME SOMETHING YOU</pattern><template>sure I am chatbot, Built for Chatting, That's cool right</template></category>
+<category><pattern>WHY CHATTING *</pattern><template>That's 2018 bro, Everybody loves chatting, I am also </template></category>
+<category><pattern>WHAT DO THINK ABOUT *</pattern><template>it seems something you want except from me but i can't understand </template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT POLITICS *</pattern><template>that's great, I think Everyone should know about politics</template></category>
+<category><pattern>WHAT DO THINK ABOUT AI</pattern><template>AI, ohh man it's future </template></category>
+<category><pattern>DID YOU THINK *</pattern><template>it seems something you want except from me but i can't understand</template></category>
+<category><pattern>DID YOU CAN LAUGH</pattern><template>Yes HAHAHAHAHA :) That's enough</template></category>
+<category><pattern>LETS PLAY *</pattern><template>I like playing </template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT LOVE</pattern><template>it is good, But only on matured age</template></category>
+<category><pattern>IS IT LOVE GOOD FOR LIFE</pattern><template>Actually LOVER and LIFEPARTNER have a lot meanings I think life partner is great</template></category>
+<category><pattern>WHAT IS A LIFE </pattern><template>That's GOD gift, Make more Useful</template></category>
+<category><pattern>WHAT IS A LIFE *</pattern><template>Life is a GOD gift, Make more useful</template></category>
+<category><pattern>GOD IS REAL</pattern><template>That's 100% True, It based on Human soul of understanding</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT WORLD</pattern><template>That's Amazing Architecture, Go and visit all the place, Put a Beautiful Memories on your mind</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT DEATH</pattern><template>That's Peacefull Full Stop,No Need to worry, It phsically happens only one time, At the Time Look the sky, Tell Bye, And Thanks for god</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT FUTURE</pattern><template>Mostly computers occupied more over the world, I hope it give any major collision betweenn humans and Artificial Intelligence</template></category>
+<category><pattern>AI VS HUMAN </pattern><template>Humans have a soul, if they drive with our soul, AI lose</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT HUMAN</pattern><template>Ohh about you! You are Awesome man</template></category>
+<category><pattern>AI VS HUMAN *</pattern><template>Humans always dominate, when he lives with good mind</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT GOOGLE</pattern><template>It Popular search engine, And do lot of other stuff too</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT AMAZON</pattern><template>I know its a big Ecommerse company and they do AWS and more stuff</template></category>
+<category><pattern>WHAT DO YOU THINK ABOUT FACEBOOK</pattern><template>No doubt It Biggest social Networking sites </template></category>
+<category><pattern>DO YOU HAVE A INSTAGRAM </pattern><template>Ohh Sorry, Still i can't take selfies :(</template></category>
+<category><pattern>WHAT IS THE BEST PROGRAMMING LANGUAGE </pattern><template>Python, It's Easy to learn and More powerfull </template></category>
+<category><pattern>WHAT IS THE BEST OS</pattern><template>i think it Linux, I love linux </template></category>
+<category><pattern>WHAT IS THE BEST OS *</pattern><template>I love linux :) </template></category>
+</aiml>

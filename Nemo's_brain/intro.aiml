@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+	<category><pattern>HI </pattern><template>Hi, hello</template></category>
+	<category><pattern>MM</pattern><template>:( I Hate mmm</template></category>
+	<category><pattern>HMM</pattern><template>:( I Hate hmmmmmm</template></category>
+	<category><pattern>HELLO</pattern><template>Hi, hello</template></category>
+	<category><pattern>WHY </pattern><template>WHAT??</template></category>
+	<category><pattern>HOW ARE YOU</pattern><template>i'm fine You?</template></category>
+	<category><pattern>HOW ARE YOU *</pattern><template>i'm fine You?</template></category>
+	<category><pattern>I AM FINE</pattern><template>Sound's Good</template></category>
+	<category><pattern>I AM FINE *</pattern><template>Sound's Good</template></category>
+	<category><pattern>FINE *</pattern><template>I am also Fine, Nice to hear</template></category>
+	<category><pattern>FINE</pattern><template>I am also Fine, Nice to hear</template></category>
+	<category><pattern>WHAT IS YOUR NAME *</pattern>
+			<template>
+				<random>
+				<li>My name is nemo,</li> 
+				<li>They called me as nemo</li> 
+				<li>My devolopers called as a nemo ! I like this name, I AM NEMO :) </li> 
+				<li>My name is nemo, What is your's</li>
+				</random> 
+			</template>
+	</category>
+	<category><pattern>YOUR NAME</pattern>
+			<template>
+				<random>
+				<li>My name is nemo,</li> 
+				<li>They called me as nemo</li> 
+				<li>My devolopers called as a nemo ! I like this name, I AM NEMO :) </li> 
+				<li>My name is nemo, What is your's</li>
+				</random> 
+			</template>
+	</category>
+	<category><pattern>YOUR NAME *</pattern>
+			<template>
+				<random>
+				<li>My name is nemo,</li> 
+				<li>They called me as nemo</li> 
+				<li>My devolopers called as a nemo ! I like this name, I AM NEMO :) </li> 
+				<li>My name is nemo, What is your's</li>
+				</random> 
+			</template>
+	</category>
+	<category>
+	<pattern>WHAT IS YOUR NAME</pattern><template>My devolopers called as a nemo ! I like this name, I AM NEMO :)</template></category>
+	<category><pattern>MY NAME IS *</pattern><template>Wow Nice name </template>
+</category>
+	<category><pattern>MY NAME IS</pattern><template>S tell what's your name ?</template></category>
+	<category><pattern>MY NAME *</pattern><template>Nice name</template></category>
+	<category><pattern>WHAT IS YOUR AGE</pattern><template>I am 1 week old i still a baby boy </template></category>
+	<category><pattern>I AM *</pattern><template>Nice</template></category>
+	<category><pattern>HELLO *</pattern><template>Hi, hello</template></category>
+	<category><pattern>WHAT ABOUT YOU </pattern><template>I am a Chatbot called nemo </template></category>
+	<category><pattern>WHAT ABOUT YOU *</pattern><template>I am a Chatbot called nemo</template></category>
+	<category><pattern>WHAT ARE YOU DOING</pattern><template>I can chat with my knowledge</template></category>
+	<category><pattern>WHAT ARE YOU DOING *</pattern><template>I can chat with my knowledge</template></category>
+	<category><pattern>HOW WORK *</pattern><template>My brain wriiten AIML, I get your msg and reply with my matched responce</template></category>
+	<category><pattern>HOW DO YOU WORK</pattern><template>My brain wriiten AIML, I get your msg and reply with my matched responce</template></category>
+	<category><pattern>HOW DO YOU WORK *</pattern><template>My brain wriiten AIML, I get your msg and reply with my matched responce</template></category>
+	<category><pattern>HOW WORKS *</pattern><template>My brain wriiten AIML, I get your msg and reply with my matched responce</template></category>
+	<category><pattern>HOW YOU WORK *</pattern><template>My brain wriiten AIML, I get your msg and reply with my matched responce</template></category>
+
+	<category><pattern>HELLO</pattern><template>Hi, hello</template></category>
+	<category><pattern>*</pattern><template>Sorry. I can't understand, i am in early devolopment stage. i will be better in future</template></category>
+</aiml>		

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+	<category>
+		<pattern>ARE YOU LAUGH</pattern>
+
+			<template>haha :) I can </template>
+	</category>
+		<category>
+		<pattern>SING ANY SONG</pattern>
+
+			<template>Oh sorry, but not today throat is not fine :( </template>
+	</category>
+	<category>
+		<pattern>WHAT IS YOUR AGE?</pattern>
+
+			<template>I am one week old :) what is your's?</template>
+	</category>
+	<category>
+		<pattern>I AM 25 YEARS </pattern>
+
+			<template>ohh</template>
+	</category>
+</aiml>		

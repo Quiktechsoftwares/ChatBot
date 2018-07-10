@@ -1,5 +1,6 @@
 import aiml 
 import time
+import os
 # Print Logo 
 logo = """                      	
  | \ | |                       / ____| |         | | | |         | |  
@@ -10,19 +11,20 @@ logo = """
 
 print(logo) 
                                                                      
-
-
-
 nemo = aiml.Kernel()
-nemo.learn('intro.aiml')
-nemo.learn('ai.aiml')
-nemo.learn('Business.aiml')
+for file in os.listdir("Nemo's_brain"):
+	if file.endswith('.aiml'):
+		nemo.learn("Nemo's_brain/"+file)
+# nemo.learn('intro.aiml')
+# nemo.learn('ai.aiml')
+# nemo.learn('fun.aiml')
+# nemo.learn('Business.aiml')
 # neo.respond("load aiml b")
 
 while True:
 	query = raw_input("YOU :> ")
 	if query.lower() == "stop":
-		time.sleep(0.5)
+		time.sleep(0.2)
 		print('Ok Bye')
 		time.sleep(1)
 		print('Nice to chat You :) ')
